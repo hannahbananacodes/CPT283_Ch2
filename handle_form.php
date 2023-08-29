@@ -16,7 +16,7 @@
 # Script 2.2 handle_form.php
 # Created 27 Aug 2023
 # Created by Hannah Holmes
-# This script handles the simple php form I made.
+# This script handles the simple php form I made (form.html).
 
 if (!empty($_POST['name'])) {
     $name = $_POST['name'];
